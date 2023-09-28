@@ -109,7 +109,7 @@ const Works = () => {
           </List>
         </Left>
         <Right>
-          {/* {work === "Web Design" ? (
+          {work === "Web Design" ? (
             <WebDesign />
           ) : work === "Development" ? (
             <Development />
@@ -117,7 +117,7 @@ const Works = () => {
           : (
             <ProductDesign />
           )
-          } */}
+          }
         </Right>
       </Container>
     </Section>
